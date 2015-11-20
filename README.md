@@ -32,6 +32,8 @@ Litet Swift program som använder Fysik, SpriteKit och GamePlayKit med landscape
 #### Demo
 <a href="https://youtu.be/uAOrqWSfsbg"><img src="https://i.ytimg.com/vi/uAOrqWSfsbg/hqdefault.jpg"></a>
 
+/Lars
+
 ### In the shadows
 
 Ett väldigt litet spel där målet är att hitta utgången innan batteriet till ficklampan tar slut.
@@ -46,6 +48,8 @@ Ett väldigt litet spel där målet är att hitta utgången innan batteriet till
 
 Koden ligger på [Github](https://github.com/ragulin/InTheShadows).
 
+/Micke
+
 ### athega.nes
 
 En ROM för Nintendo Entertainment System skriven i C med biblioteket Shiru's neslib. Kompilerad med [cc65](https://cc65.github.io/cc65/).
@@ -56,6 +60,8 @@ Koden finns på <https://github.com/peterhellberg/nesdev/tree/master/src/athega>
 
 [![Video](https://i.ytimg.com/vi/7Ymu9AEUTDo/hqdefault.jpg)](https://www.youtube.com/watch?v=7Ymu9AEUTDo)
 
+/Peter
+
 ### ATHEGA PRINT3R
 
 En plotter byggd med Lego Mindstorm EV3 enligt modellen BANNER PRINT3R men med modifierat program för att skriva "athega".
@@ -63,6 +69,8 @@ En plotter byggd med Lego Mindstorm EV3 enligt modellen BANNER PRINT3R men med m
 #### Video
 
 <a href="https://youtu.be/SBb7P-RoYLU"><img src="https://i.ytimg.com/vi/SBb7P-RoYLU/hqdefault.jpg"></a>
+
+/Johan
 
 ### Närvaroräknare och Physical Web
 
@@ -84,6 +92,8 @@ Inför årets jullunch tänkte jag att vi skulle följa hur många som druckit g
  - https://github.com/lizell/tessel-lametric-track
  - https://github.com/lizell/tessel-physicalweb
 
+/Christian
+
 ### Parkera
 
 En Android app som ska hjälpa fordonsägare att undvika parkeringsböter genom att skapa en påminnelse om gatustädning. När användaren har parkerat startar den appen. Användarens GPS-position hämtas och parkeringsinformation hämtas ifrån Stockholm Opens api. En förifylld dialog för att spara en påminnelse i kalendern visas upp.
@@ -92,6 +102,8 @@ En Android app som ska hjälpa fordonsägare att undvika parkeringsböter genom 
 
  - Google Play Services
  - Stockholm Open API
+ 
+/Alex
 
 ### Parallell metaprogrammering
 
@@ -103,6 +115,8 @@ En Android app som ska hjälpa fordonsägare att undvika parkeringsböter genom 
 
  - https://github.com/maingra/PI---a-generalised-continued-fraction-factory
 
+/Mark
+
 ### Game Theory och TensorFlow
 
 #### Fördjupning och presentation Game Theory
@@ -111,15 +125,19 @@ Fördjupade mig i Game Theory genom att titta på föreläsningar på Yale Open 
 
 <img src="http://athega.se/system/uploads/2015/11/prisoner.png"/>
 
+/Mats
+
 #### TensorFlow
 
 Google släpper delar av sitt ramverk för machine learning, TensorFlow. Jag gjorde en djupdykning och testade några av de tutorials som finns på http://tensorflow.org
 
+/Mats
 
 ### Slideshow i Apple TV
 
 En TVMLkit applikation som visar slides på nya Apple TV. Allt som behövs är ett enklare Swiftprogram i XCode som accessar ett Javascript på en webbserver som presenterar sidor med TVML. TVML är ett XML-format som definerar ett enkelt markupspråk för att skapa sidor i en Apple TV. Mycket enkelt att bygga tillämpningar i för den som är famliljär med Javascript och HTML när det väl är uppsatt och konfigurerat.
 
+/Torbjörn
 
 
 
